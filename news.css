@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+img {
+    color: white;
+    width: 700px;
+}
+
+.text-news {
+    font-size: 30px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.text-news2 {
+    font-family: sans-serif;
+    color: white;
+}
+
+.text-news3 {
+    font-family: sans-serif;
+    color: white;
+    top: 5px;
+    bottom: 5px;
+}

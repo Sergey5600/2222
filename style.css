@@ -1,0 +1,94 @@
+@import url(https://fonts.googleapis.com/css?family=Rubik+One&subset=latin,cyrillic);
+body {
+    background-color: black;                                   
+}
+
+.gradient-text {
+  font-family: /*'Rubik One',*/ sans-serif;
+  color: white;
+  font-size: 50px;
+  text-transform: uppercase;
+  text-align: center;
+  bottom: 50px;
+}
+
+.slideshow-container {
+  position: relative;
+  max-width: 100%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.slideshow-container2 {
+  position: relative;
+  max-width: 100%;
+  margin: auto;
+  overflow: hidden;
+}
+
+
+.slides {
+  display: none;
+}
+
+.slides img {
+  width: 100%;
+  display: block;
+}
+
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+.text-top {
+  font-family: /*'Rubik One',*/ sans-serif;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+
+.text-top2 {
+  font-family: /*'Rubik One',*/ sans-serif;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+
+.text-top3 {
+  font-family: /*'Rubik One',*/ sans-serif;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+
+.text-top4 {
+  font-family: /*'Rubik One',*/ sans-serif;
+  font-style: italic;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+
+.text-ump2 {
+  margin-bottom: 200px;
+}
